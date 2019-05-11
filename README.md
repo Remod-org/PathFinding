@@ -1,7 +1,7 @@
 # PathFinding
 Path finding API (for Rust), used by other plugins only
 
-Youtube Video.
+<a href="https://www.youtube.com/watch?v=fG940HkyhsE">Youtube Video</a>.
 This plugin can only be used by other plugins.
 
 As it's a lot of code, and probably usable by other plugins, i'll leave this plugin stand alone.And it will be much easier to improve it
