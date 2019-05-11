@@ -34,6 +34,7 @@ Max Loops being the max loops allowed before the plugin timesout (500 is about 0
 
 Include in Other plugins:
 
+```
 List<Vector3> FindBestPath(Vector3 sourcePosition, Vector3 targetPosition)
 return the list of Vector3 accessible
 or null if no path was found
@@ -54,4 +55,4 @@ force an entity to follow the pathpoints, can be a BasePlayer
 
 void FindAndFollowPath(BaseEntity entity, Vector3 sourcePosition, Vector3 targetPosition)
 finds the best path then forces the entity to follow the pathpoints, can be a BasePlayer
-
+```
